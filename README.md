@@ -7,3 +7,4 @@ CSS layouts were historically limited to tools such as floats and positioning th
 
 
 
+![flex_terms](https://user-images.githubusercontent.com/36268087/236692368-c4ff1177-00a3-4726-8605-6967148f65ba.png)
